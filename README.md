@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ngapera
 - 👀 I’m interested in data
 - 🌱 I’m currently learning about Pacific data in NZ
-- 💞️ I’m looking to collaborate on disability and youth data in NZ
+- 💞️ I’m looking to collaborate on Pacific, disability and youth data in NZ
 - 📫 How to reach me ngapera.riley@figure.nz
 
 <!---
